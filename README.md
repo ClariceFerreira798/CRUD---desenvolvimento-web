@@ -1,12 +1,12 @@
-## 🖥️ REPOSITÓRIO ACADÊMICO 🪪
+# 🖥️ REPOSITÓRIO ACADÊMICO 🪪
 
-Nome: Clarice Ferreira Rocha Franco
-# Estudante de Fatec Diadema
+# Nome: Clarice Ferreira Rocha Franco
+Estudante de Fatec Diadema
 
 Prof.PhD.Bruno Zolotareff dos Santos
 Disciplina: DW-I
 
-Linguagens ultilizadas:
+## Linguagens ultilizadas:
 - Html5
 - CSS3
 - JavaScript
