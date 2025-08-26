@@ -1,6 +1,6 @@
 # 🖥️ REPOSITÓRIO ACADÊMICO 🪪
 
-# Nome: Clarice Ferreira Rocha Franco
+Nome: Clarice Ferreira Rocha Franco
 Estudante de Fatec Diadema
 
 Prof.PhD.Bruno Zolotareff dos Santos
